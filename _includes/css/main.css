@@ -78,7 +78,9 @@ hr.star-primary:after {
 .img-centered {
     margin: 0 auto;
 }
-
+.navbar-default {
+    background-color: #{{ site.color.secondary-dark }};
+}
 header {
     text-align: center;
     color: #fff;
@@ -181,7 +183,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
@@ -335,7 +337,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
