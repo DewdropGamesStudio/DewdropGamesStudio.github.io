@@ -1,7 +1,7 @@
 # Site settings
 title: Dewdrop Games
 email: contact@dewdropgames.com
-url: https://plus.google.com/b/107592276694799375130/107592276694799375130
+url: https://www.google.com/+DewdropgamesStudio
 description: "A micro team of ambitious and adventurous video game craftsmasters. Though you may call us arists, suit yourself."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -22,21 +22,20 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: google-plus
+    url: https://www.google.com/+DewdropgamesStudio
   - title: facebook
     url: https://www.facebook.com/pages/Dewdrop-Games/1611114062499160
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: vk
+    url: http://vk.com/dewdropgames
   - title: github
     url: https://github.com/DewdropGamesStudio
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Mira av. 20 42
-  - line: 141196 Fryazino, Moscow region, Russia
+  - line: 141196 Fryazino
+  - line: Moscow region, Russia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
