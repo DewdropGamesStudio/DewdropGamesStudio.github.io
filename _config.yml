@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Studio
+email: contact@dewdropgames.com
+url: https://plus.google.com/b/107592276694799375130/107592276694799375130
+description: "A micro team of ambitious and adventurous video game craftsmasters. Though you may call us arists, suit yourself."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -25,18 +25,18 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/pages/Dewdrop-Games/1611114062499160
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/DewdropGamesStudio
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Mira av. 20 42
+  - line: 141196 Fryazino, Moscow region, Russia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
