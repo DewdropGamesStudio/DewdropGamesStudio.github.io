@@ -25,7 +25,7 @@ social:
   - title: google-plus
     url: https://www.google.com/+DewdropgamesStudio
   - title: facebook
-    url: https://www.facebook.com/pages/Dewdrop-Games/1611114062499160
+    url: https://www.facebook.com/DewdropGames
   - title: vk
     url: http://vk.com/dewdropgames
   - title: github
@@ -38,7 +38,7 @@ address:
   - line: Moscow region, Russia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by Start Bootstrap.'
 
 # Build settings
 markdown: kramdown
